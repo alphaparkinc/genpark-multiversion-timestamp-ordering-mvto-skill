@@ -1,0 +1,14 @@
+{
+  "name": "genpark-multiversion-timestamp-ordering-mvto-skill",
+  "version": "1.0.0",
+  "description": "Multiversion Timestamp Ordering (MVTO) concurrency control engine supporting non-blocking reads and Thomas Write Rule serialization.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "mvto",
+    "concurrency-control",
+    "database-engine",
+    "multiversion",
+    "thomas-write-rule"
+  ]
+}
